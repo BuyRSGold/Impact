@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0d12"/>
+      <stop offset="100%" stop-color="#131a23"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="920" cy="120" r="220" fill="rgba(226,194,92,0.12)"/>
+  <text x="80" y="190" fill="#e2c25c" font-size="34" font-family="Arial, Helvetica, sans-serif">Impact RSPS Gold</text>
+  <text x="80" y="285" fill="#ffffff" font-size="68" font-weight="700" font-family="Arial, Helvetica, sans-serif">Buy or Sell</text>
+  <text x="80" y="360" fill="#ffffff" font-size="68" font-weight="700" font-family="Arial, Helvetica, sans-serif">Impact Gold</text>
+  <text x="80" y="445" fill="#aab4c5" font-size="28" font-family="Arial, Helvetica, sans-serif">Discord: a6d9</text>
+  <text x="80" y="490" fill="#aab4c5" font-size="28" font-family="Arial, Helvetica, sans-serif">Live rates through Discord</text>
+</svg>
