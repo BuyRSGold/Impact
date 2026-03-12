@@ -105,6 +105,39 @@ a:hover {
   white-space: nowrap;
 }
 
+.brand-logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.8rem;
+  text-decoration: none;
+}
+
+.brand-logo:hover {
+  text-decoration: none;
+}
+
+.site-logo {
+  height: 54px;
+  width: auto;
+  display: block;
+  flex-shrink: 0;
+}
+
+.brand-text-wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.brand-sub {
+  font-size: 0.78rem;
+  font-weight: 800;
+  color: var(--gold);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
 .site-nav {
   display: flex;
   align-items: center;
@@ -456,5 +489,13 @@ p {
 
   h1 {
     max-width: 100%;
+  }
+
+  .site-logo {
+    height: 44px;
+  }
+
+  .brand-sub {
+    font-size: 0.68rem;
   }
 }
